@@ -19,7 +19,7 @@
 | Data Science<br/> [<img align="left" alt="NumPy" width="26px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png"/>][NumPy][<img align="left" alt="Pandas" width="26px" src="https://www.pinclipart.com/picdir/middle/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png"/>][Pandas] | [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal][<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"/>][Docker] |
 | Machine Learning<br>[<img align="left" alt="Scikit" width="26px" src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer.png"/>][Scikit] | [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git] [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub] |
 | Data Viz<br>                                                 | [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MySQL][<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][MongoDB] |
-
+this
 
 [<img align="left" alt="" width="26px" src=""/>][]
 
