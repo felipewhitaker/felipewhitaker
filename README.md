@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-### <img align="left" alt="Felipe Whitaker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href = "https://linkedin.com/in/felipe-whitaker "/>
+### [<img align="left" alt="Felipe Whitaker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"]("https://linkedin.com/in/felipe-whitaker")
 <br />
 
 ### Languages and Tools:
@@ -22,20 +22,6 @@
 This
 
 <img align="left" alt="" width="26px" src=""/>  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <br /><br />
 idea from: [YouTube](https://www.youtube.com/watch?v=n6d4KHSKqGk)
