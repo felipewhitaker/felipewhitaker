@@ -9,7 +9,9 @@
 
 ### Connect with me:
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width=26px href = "https://linkedin.com/in/felipe-whitaker"/>
+<img src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width=26px />
+
+### ![LinkedIn](https://linkedin.com/in/felipe-whitaker)
 <br />
 
 ### <!--Languages and Tools:-->
