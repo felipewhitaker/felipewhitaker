@@ -1,9 +1,9 @@
 ### Hi there, I'm Felipe!
 
-## I'm currently studying Industrial Engineering with minor in Risk Analysis(<img align="left" width="23px" src="https://logodownload.org/wp-content/uploads/2015/02/puc-rio-logo.gif"/>  [https://www.puc-rio.br/index.html  )  with special interest in Innovation, Data Science and Machine Learning.
+## I'm currently studying Industrial Engineering with minor in Risk Analysis at <img src="https://logodownload.org/wp-content/uploads/2015/02/puc-rio-logo.gif" width=26px/> with special interest in Innovation, Data Science and Machine Learning.
 
 - 🔭 I’m currently participating in Kaggle competitions!
-- 🌱 I’m currently studying mainly ![Python](https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png | width = 26) related frameworks, looking into both ![Julia](https://download.logo.wine/logo/Julia_(programming_language)/Julia_(programming_language)-Logo.wine.png | width = 26) and ![Swift](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1138px-Swift_logo.svg.png | width = 26)
+- 🌱 I’m study mainly <img sr="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width=26px/> related frameworks, looking into both <img src="https://download.logo.wine/logo/Julia_(programming_language)/Julia_(programming_language)-Logo.wine.png" width=26px /> and <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1138px-Swift_logo.svg.png" width=26px />
 - 🥅 2020 Goals: 
 - ⚡ Fun fact: I love music and learning new languages!
 
