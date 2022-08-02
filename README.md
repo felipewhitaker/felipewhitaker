@@ -5,7 +5,7 @@ I am very interested in leveraging data to solve challenges.
 - 💻 I mostly use Python and its packages (such as [Pandas](https://pandas.pydata.org/) and [sklearn](https://scikit-learn.org/stable/))
 - 📈 I also wrote a package for transforming Time Series to a tabular format for Neural Networks: [tabular-time-series](https://github.com/felipewhitaker/tabular-time-series)
 - 👓 I learned  Julia during my Masters for optimization challenges and fell in love with it. Check out [Decision and Risk Analysis repo](https://github.com/felipewhitaker/decision_and_risk_analysis).
-- 🌱 I love learning new concepts and contexts through challengeds
+- 🌱 I love learning new concepts and contexts through challenges
 - 💬 Ping me for any data related challenge and I will love listening about it!
 - ❤️ Fun fact: I love 🎶 music and 🚴 cycling!
 
@@ -26,8 +26,6 @@ Images
  DEI: <img src="https://www.maxwell.vrac.puc-rio.br/projetosEspeciais/DEI/img/DEI-logo.png" width=26px/>
  PUC-Rio: <img src="https://upload.wikimedia.org/wikipedia/pt/9/9d/PUC-Rio-Logo.jpg" width=26px/>
  LinkedIn: <img src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width=26px />
-
-
 Check: 
  Auto updates README with new information: https://github.com/maximousblk/maximousblk
 />
