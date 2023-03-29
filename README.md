@@ -4,7 +4,7 @@ I am very interested in leveraging data to solve challenges.
 
 - 💻 I mostly use Python and its packages (such as [Pandas](https://pandas.pydata.org/) and [sklearn](https://scikit-learn.org/stable/))
 - 📈 I also wrote a package for transforming Time Series to a tabular format for Neural Networks: [tabular-time-series](https://github.com/felipewhitaker/tabular-time-series)
-- 👓 I learned  Julia during my Masters for optimization challenges and fell in love with it. Check out [Decision and Risk Analysis repo](https://github.com/felipewhitaker/decision_and_risk_analysis).
+- 👓 I learned  Julia during my Masters for optimization challenges and fell in love with it. Check out [Machine Learning Under a Modern Optimization Lens](https://github.com/felipewhitaker/mlopt) and [Decision and Risk Analysis repo](https://github.com/felipewhitaker/decision_and_risk_analysis).
 - 🌱 I love learning new concepts and contexts through challenges
 - 💬 Ping me for any data related challenge and I will love listening about it!
 - ❤️ Fun fact: I love 🎶 music and 🚴 cycling!
@@ -15,7 +15,7 @@ I'm an Operations Research Master student at the [Industrial Engineering Departm
  
 ### 💼 Experience 
 
-Currently I am at [Gympass](https://site.gympass.com/) automating processes. Before that I have had experiences with Data Science and applied Machine Learning, and you can check it on my [LinkedIn](https://linkedin.com/in/felipe-whitaker) profile.
+Currently I am at [LAMPS](http://www.lamps.ind.puc-rio.br/en/) researching the use of weather variables as dependent variables for energy load forecasting. Before that I have had experiences with Processes Automation, Data Science and applied Machine Learning: you can check all of it on my [LinkedIn](https://linkedin.com/in/felipe-whitaker) profile.
 
 Feel free to connect with me via or directly [reach me](mailto:nasvmustbedown+github@gmail.com)!
 
