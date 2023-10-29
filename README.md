@@ -2,12 +2,11 @@
 
 I am very interested in leveraging data to solve challenges.
 
-- 💻 I mostly use Python and its packages (such as [Pandas](https://pandas.pydata.org/) and [sklearn](https://scikit-learn.org/stable/))
-- 📈 I also wrote a simple package for transforming Time Series to a tabular format for Neural Networks: [tabular-time-series](https://github.com/felipewhitaker/tabular-time-series)
-- 👓 I learned  Julia during my Masters for optimization challenges. Check out [Machine Learning Under a Modern Optimization Lens](https://github.com/felipewhitaker/mlopt) and [Decision and Risk Analysis repo](https://github.com/felipewhitaker/decision_and_risk_analysis).
+- 📂 This is my [portfolio repository](https://github.com/felipewhitaker/portfolio) with a quick explation of public projects I have done!
+- 💻 I mostly use Python and its amazing packages, which I used to write a simple package for transforming Time Series to a tabular format for Neural Networks: [tabular-time-series](https://github.com/felipewhitaker/tabular-time-series) <!--(such as [Pandas](https://pandas.pydata.org/) and [sklearn](https://scikit-learn.org/stable/))-->
+- 🏛️ I have used Julia for optimization problems during my Masters. Check out [Machine Learning Under a Modern Optimization Lens](https://github.com/felipewhitaker/mlopt) and [Decision and Risk Analysis repo](https://github.com/felipewhitaker/decision_and_risk_analysis).
 - 🌱 I love learning new concepts and contexts through challenges
 - 💬 Ping me for any data related challenge and I will love listening about it!
-- 📂 If you'd like to check, I have a [portfolio repository](https://github.com/felipewhitaker/portfolio) with a quick explation of public projects I have done!
 - ❤️ Fun fact: I love 🎶 music and 🚴 cycling!
 
 ### 🎓 Education
@@ -16,9 +15,9 @@ I'm an Operations Research Master student at the [Industrial Engineering Departm
  
 ### 💼 Experience 
 
-Currently I am focused on my Master's dissertation, but previously I have worked with Research, Processes Automation, Data Science and applied Machine Learning: you can check all of it on my [LinkedIn](https://linkedin.com/in/felipe-whitaker) profile.
+Currently I am focused on my Master's dissertation, but previously I have worked with Innoavation, Research, Processes Automation, Data Science and applied Machine Learning: you can check all of it on my [LinkedIn](https://linkedin.com/in/felipe-whitaker) profile.
 
-Feel free to connect with me via or directly [reach me](mailto:nasvmustbedown+github@gmail.com)!
+Feel free to connect with me and reach  me!
 
 <!--
 Images
